@@ -1,0 +1,33 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Matrix",
+      "year": 1999,
+      "posterUrl": "https://m.media-amazon.com/images/I/51vpnbwFHrL._AC_.jpg",
+      "genre": "Bilim Kurgu",
+      "rating": 8.7,
+      "description": "Bir hacker, yaşadığı dünyanın simülasyon olduğunu keşfeder.",
+      "duration": 136
+    },
+    {
+      "id": "2",
+      "title": "Inception",
+      "year": 2010,
+      "posterUrl": "https://m.media-amazon.com/images/I/51k0qa6q0-L._AC_.jpg",
+      "genre": "Bilim Kurgu",
+      "rating": 8.8,
+      "description": "Rüya içinde rüya konseptiyle bilinçaltı hırsızlığı.",
+      "duration": 148
+    },
+    {
+      "id": "5e25",
+      "title": "Deneme",
+      "year": 1994,
+      "genre": "Macera",
+      "rating": 7.12,
+      "description": "Macera türünde bir film",
+      "duration": null
+    }
+  ]
+}
